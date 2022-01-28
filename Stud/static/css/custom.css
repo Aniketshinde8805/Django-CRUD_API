@@ -1,0 +1,21 @@
+div >.signup {
+    width: 300px;
+    height: 400px;
+}
+
+table{
+    width:40%;
+    height:50%;
+}
+
+div.welcome{
+    margin:auto;
+    width:max-content;
+       
+}
+
+div.signup{
+    width: 500px;
+    margin:auto;
+    padding-top: 50px;
+}
